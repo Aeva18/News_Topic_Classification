@@ -15,5 +15,3 @@ After that the dataset is cleaned from all noise, including
 After cleaning the data, the data is represented using word embeddings, namely Word2Vec and also FastText with the skip-gram method. For details, please refer to the explanation.
 
 Afterwards, the SVM and random forest models were run with both text representations and the result was that everything went well, where the best results were obtained from the SVM model with word2Vec embedding with an accuracy of 9%.
-
-Translated with www.DeepL.com/Translator (free version)
